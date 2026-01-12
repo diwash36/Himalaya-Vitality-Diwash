@@ -1,0 +1,5 @@
+{
+  "name": "Himalaya-Vitality-Diwash",
+  "description": "An advanced tool to import, explore, and analyze GitHub repositories using Gemini 3 Pro. Get instant summaries, file explanations, and chat with your codebase contextually.",
+  "requestFramePermissions": []
+}
